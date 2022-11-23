@@ -1,34 +1,20 @@
 ### print("Hello world! My name is Jorge Rocha") 
+# 💫 About Me:
+Olá, mundo! Meu nome é:Jorge Rocha<br>O ano era 2015 e foi quando eu vi sobre programação a primeira vez e desde lá tento<br>aprender ou participar coisas que me ensinam sobre a área. Sempre que eu posso<br>estou participando de algum projeto na faculdade ou atividade que possa utilizar meus<br>conhecimentos na área.<br>Nos meus momentos mais livres costumo assistir muitos filmes sobre ficção cientifica e se reunir<br>com os amigos para jogar Dungeons & Dragons.<br>Quando eu estou programando gosto de ouvir muitas músicas, pois me auxilia a me<br>concentrar nas tarefas.
 
-<div style="display: inline-block;  align-content: center;" >
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jorgerocha001&show_icons=true&theme=tokyonight" />
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgerocha001&layout=compact&show_icons=true&theme=tokyonight" >
-</div>
-<br>
 
-## Programming languages
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-rocha-4b0191207/) 
 
- <div style="display: inline-block; align-content: center;">
-        <a href="https://www.python.org/doc/" target="_blank"><img style="align-items: center;" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-        <a href="https://www.postgresql.org/docs/" target="_blank"><img style="align-items: center;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img style="align-items: center;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-    </div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rock&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rock&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rock&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=Rock&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## Framework
-
-<div style="display: inline-block; align-content: center;">
-        <a href="https://www.djangoproject.com/" target="_blank"><img style="align-items: center;" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Framework"></a>
-        <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img style="align-items: center;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"></a>
-    </div>
-
-<br>
-<br>
-
-## Social network
-
-<div style="display: inline-block; align-content: center;" >
-        <a href="https://www.linkedin.com/in/jorge-rocha-4b0191207/" target="_blank"><img style="align-items: center;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="the OS i use"></a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
