@@ -1,6 +1,6 @@
 ### print("Hello world! My name is Jorge Rocha") 
 # 💫 About Me:
-Olá, mundo! Meu nome é:Jorge Rocha<br>O ano era 2015 e foi quando eu vi sobre programação a primeira vez e desde lá tento<br>aprender ou participar coisas que me ensinam sobre a área. Sempre que eu posso<br>estou participando de algum projeto na faculdade ou atividade que possa utilizar meus<br>conhecimentos na área.<br>Nos meus momentos mais livres costumo assistir muitos filmes sobre ficção cientifica e se reunir<br>com os amigos para jogar Dungeons & Dragons.<br>Quando eu estou programando gosto de ouvir muitas músicas, pois me auxilia a me<br>concentrar nas tarefas.
+Olá, mundo! Meu nome é Jorge Rocha<br>O ano era 2015 e foi quando eu vi sobre programação a primeira vez e desde lá tento<br>aprender ou participar coisas que me ensinam sobre a área. Sempre que eu posso<br>estou participando de algum projeto na faculdade ou atividade que possa utilizar meus<br>conhecimentos na área.<br>Nos meus momentos mais livres costumo assistir muitos filmes sobre ficção cientifica e se reunir<br>com os amigos para jogar Dungeons & Dragons.<br>Quando eu estou programando gosto de ouvir muitas músicas, pois me auxilia a me<br>concentrar nas tarefas.
 
 
 ## 🌐 Socials:
