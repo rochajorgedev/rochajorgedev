@@ -29,8 +29,8 @@ Olá, mundo! Meu nome é Jorge Rocha<br>O ano era 2015 e foi quando eu vi sobre 
 
 
 # 📊 GitHub Stats:
-![jorgerocha001's Stats](https://github-readme-stats.vercel.app/api?username=jorgerocha001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
-![jorgerocha001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgerocha001&theme=tokyonight&hide_border=true)
-![jorgerocha001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgerocha001&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![jorgerocha001's Stats](https://github-readme-stats.vercel.app/api?username=rochajorgedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
+![jorgerocha001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rochajorgedev&theme=tokyonight&hide_border=true)
+![jorgerocha001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rochajorgedev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
